@@ -3,4 +3,4 @@ All projects and assignments are based on ['2024 Spring Human-Computer Interacti
 
 ### Team Information
 - Team Name : 무난하게
-- Members: 강문구, 이세진, 이승현, 이정훈, 조성혁
+- Members : 강문구, 이세진, 이승현, 이정훈, 조성혁

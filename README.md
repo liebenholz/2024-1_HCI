@@ -6,5 +6,9 @@ All projects and assignments are based on [**'2024 Spring Human-Computer Interac
 ### Team Information
 - Team Name : 무난하게
 - Members : 강문구, 이세진, 이승현, 이정훈, 조성혁
+
+### Design Project Final Product
+- User Test Result & Final Presentation : [Coming Soon..]
+- Digital Type Model by Figma : [**LINK**](https://www.figma.com/proto/cI6xRCcfZ1WHToqPEiOq1E/Digital-Prototyping---%EB%AC%B4%EB%82%9C%ED%95%98%EA%B2%8C_%EC%9D%B4%EC%84%B8%EC%A7%84?node-id=15-4&t=2bxRt75XjGbtI78p-1&scaling=min-zoom&page-id=1%3A75&starting-point-node-id=15%3A4&show-proto-sidebar=1)
 - [Team Project Github Link](https://github.com/users/liebenholz/projects/3)
-- User Test Model by Figma : [**LINK**](https://www.figma.com/proto/cI6xRCcfZ1WHToqPEiOq1E/Digital-Prototyping---%EB%AC%B4%EB%82%9C%ED%95%98%EA%B2%8C_%EC%9D%B4%EC%84%B8%EC%A7%84?node-id=15-4&t=2bxRt75XjGbtI78p-1&scaling=min-zoom&page-id=1%3A75&starting-point-node-id=15%3A4&show-proto-sidebar=1)
+

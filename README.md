@@ -1,7 +1,7 @@
 ## Lecture Introduction
 All projects and assignments are based on [**'2024 Spring Human-Computer Interaction(2)'**](https://knu-p4c-lab.github.io/lectures/b9328116-78fe-5d43-9168-0b473b75b2e2/) by KNU P4C Lab
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/googleslides-FBBC04?style=for-the-badge&logo=googleslides&logoColor=black"> <img src="https://img.shields.io/badge/googlesheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"> <img src="https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"> <img src="https://img.shields.io/badge/googleforms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/slides-FBBC04?style=for-the-badge&logo=googleslides&logoColor=black"> <img src="https://img.shields.io/badge/sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"> <img src="https://img.shields.io/badge/docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"> <img src="https://img.shields.io/badge/forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white">
 
 
 ### Team Information

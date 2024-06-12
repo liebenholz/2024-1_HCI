@@ -11,6 +11,6 @@ All projects and assignments are based on <a href="https://knu-p4c-lab.github.io
 ### Design Project Final Product
 
 - Promotion Video : [**YouTube**](https://youtu.be/R9YZGIDx560)
-- Final Presentation : [coming at JUN 13]
+- Final Presentation : [**Google Slides**](https://docs.google.com/presentation/d/1BxTbOkAhw0sAIiSG0EWr4kPfdBZ9Ff5DLQHGXyGX_I8/edit?usp=sharing)
 - Digital Prototype by : <a href="https://www.figma.com/proto/iFPehvevnefHAqYsm2bXdm/Digital-Prototyping---%EB%AC%B4%EB%82%9C%ED%95%98%EA%B2%8C_%EC%9D%B4%EC%84%B8%EC%A7%84(professional)?node-id=15-4&t=j0PntT4yqddkL3Jp-0&scaling=scale-down&page-id=1%3A75&starting-point-node-id=15%3A4&content-scaling=fixed" target="_blank">**Figma**</a>
 - <a href="https://github.com/users/liebenholz/projects/3" target="_blank">Team Project Github Link</a>
